@@ -2,7 +2,7 @@ INTRODUCTION
 
 The Titanic dataset contains passenger information from the 1912 Titanic ship disaster. This project analyzes survival patterns using Python and the Pandas library.
 
-TITANIC DATASET
+DATASET OVERVIEW
 
 The dataset includes details such as PassengerId, Name, Age, Gender, Class, Fare, and Survival status. It helps in understanding how different factors influenced passenger survival.
 
